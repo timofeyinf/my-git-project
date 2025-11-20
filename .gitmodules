@@ -1,0 +1,3 @@
+[submodule "external/submodule-test"]
+	path = external/submodule-test
+	url = https://github.com/timofeyinf/submodule-test.git
